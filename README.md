@@ -21,4 +21,3 @@ Model eğitimde train veri kümesi, batch_size, epoch, verbose, validation veri 
 Bu işlemden sonra veri kümesi test edilerek accuracy ve loss değerleri bulunuyor. Daha sonra bu değerler görselleştirilerek daha çok bilgi elde edilmesi sağlanıyor.
 
 
-Projenin mobil proje görünümü ![Uploading image.png…]() 
