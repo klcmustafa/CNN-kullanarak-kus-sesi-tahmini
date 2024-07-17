@@ -19,3 +19,6 @@ Adam algoritması, eğitim boyunca öğrenme oranını ayarlar. Öğrenme oranı
 4. Modeli Eğitme:
 Model eğitimde train veri kümesi, batch_size, epoch, verbose, validation veri kümesi değerleri kullanılmıştır. Daha önceden yaptığımız denemelerden en iyi sonuç epoch = 1000 değerinde elde ettiğimiz için kodda o değer kullanılmıştır.
 Bu işlemden sonra veri kümesi test edilerek accuracy ve loss değerleri bulunuyor. Daha sonra bu değerler görselleştirilerek daha çok bilgi elde edilmesi sağlanıyor.
+
+
+Projenin mobil proje görünümü ![Uploading image.png…]() 
